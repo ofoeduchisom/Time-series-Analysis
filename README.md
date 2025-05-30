@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project focuses on performing univariate and multivariate time-series analysis and forecasting on a selected dataset. The goal is to provide actionable insights and business recommendations based on the analysis.
+This project focuses on performing univariate and multivariate time-series analysis and forecasting on a selected dataset. The goal is to provide actionable insights and business recommendations based on the time series analysis data using various forecasting models like ARIMA, SARIMA, SARIMAX etc.
 
 The project includes:
 
